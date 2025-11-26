@@ -14,3 +14,4 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Linting
 
 We use Oxlint for fast JavaScript/TypeScript linting. Run npm run lint to check the project. If you use TypeScript, you can pass --type-aware and --tsconfig tsconfig.json to Oxlint for type-aware rules.
+ 
